@@ -22,5 +22,8 @@
     "express": "^4.16.2",
     "nodemon": "^1.14.3",
     "socket.io": "^2.0.4"
+  },
+  "engines": {
+    "node": "8.11.x"
   }
 }
